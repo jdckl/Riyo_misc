@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="2422" measuredH="2460" mockupW="2144" mockupH="2460">
   <controls>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="387" y="75" w="947" h="490" measuredW="236" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="387" y="75" w="947" h="490" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>0%2C147%2C1000%2C372</crop>
         <src>./assets/Mozart_program_web_velka.jpg</src>
@@ -172,7 +172,7 @@
         <text>Reperto%E1r</text>
       </controlProperties>
     </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Image" x="422" y="1775" w="114" h="160" measuredW="90" measuredH="110" zOrder="76" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Image" x="422" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="76" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Aktovky_reper_nahl.gif</src>
       </controlProperties>
@@ -185,22 +185,22 @@
         <text>Show%20Title</text>
       </controlProperties>
     </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::Image" x="550" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="78" locked="false" isInGroup="-1">
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Image" x="550" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="78" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Bezsitka_reper_nahl.gif</src>
       </controlProperties>
     </control>
-    <control controlID="106" controlTypeID="com.balsamiq.mockups::Image" x="678" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="79" locked="false" isInGroup="-1">
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Image" x="678" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="79" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Brahmani_repertoar_nahl.gif</src>
       </controlProperties>
     </control>
-    <control controlID="108" controlTypeID="com.balsamiq.mockups::Image" x="806" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="80" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Image" x="806" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="80" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Equus_repertoar_nahl.gif</src>
       </controlProperties>
     </control>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="934" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="81" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="934" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="81" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Idiotka_reper_nahl.jpg</src>
       </controlProperties>
@@ -312,12 +312,12 @@
         <text>More%20information</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Image" x="1062" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="98" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Image" x="1062" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="98" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Harvey_repertoar_nahl.gif</src>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Image" x="1190" y="1775" w="114" h="160" measuredW="90" measuredH="100" zOrder="99" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Image" x="1190" y="1775" w="114" h="160" measuredW="77" measuredH="79" zOrder="99" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/Kompot_reper_nahl.gif</src>
       </controlProperties>
