@@ -28,3 +28,12 @@ $(window).scroll(function(){
         }
     }
 });
+
+
+/* Smooth scroll on nav click (needs some tweaking possibly, quickly written)*/
+jQuery(document).ready(function($) {
+    $("#headnav a").click(function(event){
+        event.preventDefault();
+        $('html,body').animate({scrollTop:$(this.hash).offset().top - 90}, 1000);
+    });
+});
