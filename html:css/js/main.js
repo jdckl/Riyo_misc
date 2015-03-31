@@ -1,4 +1,3 @@
-
 /* headnav scroll size */
 $(function(){
     $('#headnav').data('size','big');
