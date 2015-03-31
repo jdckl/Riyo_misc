@@ -90,6 +90,12 @@ section {
   color: white;
   background-color: #009CFF;
 }
+#showbox svg {
+  float: left;
+  margin-left: 0px;
+  padding: 0px;
+  margin-bottom: 25px;
+}
 
 /* About section */
 #onas {
@@ -122,6 +128,13 @@ section {
 #clenove {
   background-color: white;
   height: 100vh;
+}
+#members {
+  column-count: 5;
+  -webkit-column-count: 5;
+  column-width: 180px;
+  -webkit-column-width: 180px;
+  height: 100%;
 }
 
 /* Repertoar section */
