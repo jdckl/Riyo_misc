@@ -43,7 +43,12 @@ section{width:100%;height:100vh;}
 #clenove{background-color: white; height: 100vh;}
 
 /* Repertoar section */
-#repertoar{background-color: #009CFF; height: 80vh;}
+#repertoar{background-color: #009CFF; height: 80vh; padding-top: 10px;}
+#repertoar h2{color: white;}
+
+/* Sponsors section */
+#sponsors{background-color: #E4F1FE; height: 65vh; padding-top: 10px;}
+#sponsors h2{text-align: center; font-family: "MuseoSlab-500Italic";}
 
 /* Reference section */
 #reference{background-color: white; height: 150vh;}
