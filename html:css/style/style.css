@@ -16,6 +16,9 @@ body{padding:0px; margin: 0px; font-family: "MuseoSlab-500";}
 
 /* SECTIONS */
 section{width:100%;height:100vh;}
+#content{margin: 0 auto; max-width: 900px;}
+#content h2{font-size: 50px;}
+#content p{font-size: 25px;}
 
 /* Hero section */
 #hero{
@@ -28,7 +31,7 @@ section{width:100%;height:100vh;}
   #morebutton:hover{color: white; background-color: #009CFF;}
 
 /* About section */
-#onas{background-color: white; height: 70vh;}
+#onas{background-color: white; height: auto; padding-bottom: 50px;}
 
 /* History section */
 #historie{background-color: #CFCFCF; height: 80vh;}
